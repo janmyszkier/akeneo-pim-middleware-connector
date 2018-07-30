@@ -6,7 +6,7 @@
     "spryker/kernel": "^3.0.0",
     "spryker/locale": "^3.0.0",
     "spryker/tax": "^5.0.0",
-    "spryker-eco/akeneo-pim": "dev-dev",
+    "spryker-eco/akeneo-pim": "dev-development",
     "spryker-middleware/process": "dev-dev",
     "spryker/data-import": "^1.0.0"
   },
